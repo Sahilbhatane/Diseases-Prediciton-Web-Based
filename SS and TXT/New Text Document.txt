@@ -1,0 +1,1 @@
+streamlit run "C:\Users\sahil\OneDrive\Desktop\CODE\multiple_disease_prediction.py"
