@@ -6,11 +6,11 @@ st.set_page_config(layout='wide')
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C://Users/sahil/OneDrive/Desktop/CODE/WEB BASED DISEASES PREDICTION/saved_models/diabetes_model.sav','rb'))
+diabetes_model = pickle.load(open('saved_models\diabetes_model.sav','rb'))
 
-heart_disease_model = pickle.load(open('C://Users/sahil/OneDrive/Desktop/CODE/WEB BASED DISEASES PREDICTION/saved_models/heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('saved_models\heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('C:/Users/sahil/OneDrive/Desktop/CODE/WEB BASED DISEASES PREDICTION/saved_models/parkinsons_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('saved_models\parkinsons_model.sav', 'rb'))
 
 
 
